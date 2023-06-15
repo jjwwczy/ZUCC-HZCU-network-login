@@ -3,7 +3,7 @@
 本代码用于浙大城市学院在1.1.1.3地址进行校园网认证的自动登录。
 
 ## requirements
-windows系统， 已安装python环境，涉及到的python库，如果requests库没有安装，可以在命令行输入以下代码并回车。
+windows系统， 已安装python环境，涉及到的python库如下，如果requests库没有安装，可以在命令行输入以下代码并回车。
  ```
 pip install requests
  ```
