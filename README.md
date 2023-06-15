@@ -3,7 +3,11 @@
 本代码用于浙大城市学院在1.1.1.3地址进行校园网认证的自动登录。
 
 ## requirements
-windows系统， 已安装python环境
+windows系统， 已安装python环境，涉及到的python库：
+* requests 
+* time 
+* json
+* codecs
 
 ## 使用方法
 1. 更改login_net.py中的用户名和密码
